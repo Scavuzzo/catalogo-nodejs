@@ -5,6 +5,8 @@ const app = express();
 const nunjucks = require('nunjucks');
 const fetch = require('node-fetch');
 
+const port = process.env.PORT || 8080;
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
@@ -78,4 +80,4 @@ app.get('/c/:category', (req, res) => {
         .catch(err => alert(err))
 });
 
-app.listen(8080);
+app.listen(port);
