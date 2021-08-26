@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Single</title>
+</head>
+<body>
+    {% include "header.html" %}
+    <nav class="nav" id="header-nav">
+        {% for n in nav %}
+        <a href="/c/{{n}}">{{n}}</a>
+        {% endfor %}
+    </nav>
+    <main class="main">
+        <div class="container">
+            {% if product %}
+            {{ product[0].length }}
+            <div class="single">
+                <h3>{{product.name}}</h3>
+                <div class="single__img"><img src="{{product.img_url}}" alt=""></div>
+                <div class="single__info">
+                    <p>Categoria: <a href="/c/{{product.category}}">{{product.category}}</a></p>
+                    <p>${{product.price}}</p>
+                    <p>{{product.description}}</p>
+                </div>
+                <div class="single__back btn"><a href="/">Volver al inicio</a></div>
+            </div>
+            {% else %}
+            <p>Ops! Parece que el producto ya no esta disponible</p>
+            {% endif %}
+        </div>
+    </main>
+    {% include "footer.html" %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

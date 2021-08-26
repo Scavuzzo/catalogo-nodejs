@@ -1,0 +1,50 @@
+{% import "buscador.html" as b %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>catalogo</title>
+</head>
+<body>
+    {% include "header.html" %}
+    <main class="main">
+    {{ b.buscar('busqueda', 'buscador') }}
+    <nav class="nav" id="header-nav">
+            {% for n in nav %}
+            <a href="/c/{{n}}">{{n}}</a>
+            {% endfor %}
+    </nav>
+        <div class="container main">
+            <div class="products-grid">
+            {% for product in products %}
+                <div class="product">
+                    <div class="product__title">
+                    <h4>{{ product.name }}</h4>
+                    </div>
+                    <div class="product__info">
+                        <p><a href="/c/{{ product.category }}">{{ product.category }}</a></p>
+                        <p>${{ product.price }}</p>
+                    </div>
+                    <div class="product__img">
+                        <img src="{{product.img_url}}" alt="">
+                    </div>
+                    <div class="product__seemore btn">
+                        <a href="/p/{{product.id}}/{{product.name}}">Ver más</a>
+                    </div>
+                </div>
+                {% else %}
+                <p></p>
+                <p class="msg-error">Ups! No hemos encontrado un producto con ese nombre.</p>
+            {% endfor %}
+            </div>
+        </div>
+    </main>
+
+    {% include "footer.html" %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

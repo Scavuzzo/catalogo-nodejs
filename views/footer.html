@@ -1,0 +1,9 @@
+<footer class="footer">
+    <nav class="footer__nav">
+        {% for n in nav %}
+        <a href="/c/{{n}}">{{n}}</a>
+        {% endfor %}
+    </nav>
+    <h4>Autor: Lautaro Scavuzzo</h4>
+    <p><a href="https://raw.githubusercontent.com/Scavuzzo/catalogo-nodejs/main/productos.json" target="_blank">Ver JSON de productos</a></p>
+</footer>

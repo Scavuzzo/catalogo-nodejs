@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "name": "Microondas Grill Atma",
+        "description": "Variedad de funciones y programasSu función de grill permite dorar los alimentos para que queden crocantes, ideal para pizzas, empanadas y tartas. Diseño innovador y accesorios. La libertad es absoluta, ya que podrás llevarlo adonde desees cuando te mudes. Su display te permitirá ser más preciso al momento de seleccionar el tipo de comida, configurar el tiempo y la función para cocinar.",
+        "category": "Electrodoméstico",
+        "price": "21.499",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_818312-MLA40116219504_122019-O.webp"
+    },
+    {
+        "id": 2,
+        "name": "Secarropas Philco Phsc071b",
+        "description": "Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt.",
+        "category": "Electrodoméstico",
+        "price": "36.999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_981874-MLA46593649688_072021-O.webp"
+    },
+    {
+        "id": 3,
+        "name": "Smart Tv Samsung 50'",
+        "description": "Viví en 4K.   La cantidad de pixeles que ofrece es 4 veces mayor que la Full HD, ¿el resultado? Escenas mucho más realistas y con un nivel de detalle increíble. Ahora vas a conocer una aventura de inmersión que no va a dejar de sorprenderte.",
+        "category": "Tv",
+        "price": "69.999",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_878604-MLA44160072739_112020-F.webp"
+    },
+    {
+        "id": 4,
+        "name": "Horno de mesa eléctrico Alpaca",
+        "description": "Espacio reducido, cocción óptima. Si tu cocina es pequeña, el horno de mesa es la mejor solución. Vas a disfrutar de las mismas ventajas que con uno convencional y ganarás practicidad y comodidad.",
+        "category": "Electrodoméstico",
+        "price": "7.399",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_686404-MLA32707529114_102019-O.webp"
+    },
+    {
+        "id": 5,
+        "name": "Parlante Marshall Woburn II Bluetooth brown",
+        "description": "Más de 50 años de experiencia en sonido y diseño dan respaldo a la marca Marshall. Sus productos no solo son un ícono del rock, sino que trascendieron los escenarios para darle música a tu vida a través parlantes de uso doméstico caracterizados por su alta fidelidad y calidad.",
+        "category": "Audio",
+        "price": "99.9999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_674857-MLA44436715829_122020-O.webp"
+    },
+    {
+        "id": 6,
+        "name": "Apple Mac Mini A2348 Chip M1 8gb 256gb Ssd",
+        "description": "Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Computación",
+        "price": "165.000",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_765096-MLA46365267025_062021-O.webp"
+    },
+    {
+        "id": 7,
+        "name": "Bafle Xline Pro 15 PuLG",
+        "description": "Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec rutrum congue leo eget malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere blandit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Audio",
+        "price": "25.335",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_857574-MLA44382096774_122020-O.webp"
+    },
+    {
+        "id": 8,
+        "name": "Lavavajillas Drean Dish acero inoxidable",
+        "description": "Con el lavaplatos Drean Dish 15.2 DT te olvidás de la higiene de tu cocina. Su gran capacidad permite lavar toda la vajilla de manera rápida y práctica. Cuenta con inicio diferido en el que podés seleccionar el momento de inicio del lavado con 23h de anticipación. Además, gracias a la composición de sus materiales y tecnología produce bajo ruido.",
+        "category": "Electrodoméstico",
+        "price": "72.259",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_850261-MLA40221447043_122019-O.webp"
+    },
+    {
+        "id": 9,
+        "name": "Samsung Galaxy A32",
+        "description": "Fotografía profesional en tu bolsillo. Descubrí infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados.",
+        "category": "Celular",
+        "price": "37.999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_630807-MLA45658531680_042021-O.webp"
+    },
+    {
+        "id": 10,
+        "name": "Smart TV Philips 32''",
+        "description": "El compromiso de Philips es brindar nuevas e innovadoras tecnologías. Es por esa razón que se centra en los detalles para poder ofrecer productos que marcan la diferencia y crean una experiencia visual más increíble y auténtica. Con el Smart TV 32PHG5813 vas a acceder a las aplicaciones en las que se encuentran tus contenidos favoritos. Además, podés navegar por Internet, interactuar en redes sociales y divertirte con videojuegos.",
+        "category": "Tv",
+        "price": "31.999",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_755354-MLA31522556613_072019-O.webp"
+    },
+    {
+        "id": 11,
+        "name": "MacBook Air (M1, 2020, 256 GB de SSD, macOS X 10.14)",
+        "description": "La notebook más delgada y liviana de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más rápido con la CPU de 8 núcleos y disfruta como nunca antes de apps y juegos con gráficas avanzadas gracias a la GPU de 8 núcleos. Además, el Neural Engine de 16 núcleos se encarga de acelerar todos los procesos de aprendizaje automático. Todo en un diseño silencioso sin ventilador que te ofrece la mayor duración de batería en una MacBook Air: hasta 18 horas.(1) Portable como siempre, más poderosa que nunca.",
+        "category": "Computación",
+        "price": "177.000",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_648428-MLA46516517286_062021-O.webp"
+    },
+    {
+        "id": 12,
+        "name": "Apple iPhone 12 (128 GB) - Morado",
+        "description": "El iPhone 12 tiene una espectacular pantalla Super Retina XDR de 6.1 pulgadas (1). Un frente de Ceramic Shield, cuatro veces más resistente a las caídas (2). Modo Noche en todas las cámaras, para que puedas tomar fotos increíbles con poca luz. Grabación, edición y reproducción de video en Dolby Vision con calidad cinematográfica. Y el potente chip A14 Bionic. Además, es compatible con los nuevos accesorios MagSafe, que se acoplan fácilmente a tu iPhone y permiten una carga inalámbrica más rápida (3). Que comience la diversión.",
+        "category": "Celular",
+        "price": "210.000",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_851960-MLA46104962261_052021-O.webp"
+    },
+    {
+        "id": 13,
+        "name": "Edifier S350db Sistema Audio",
+        "description": "Ciertos hábitos pueden ser modificados. Sistemas de sonido en configuración 2.1 parecen seguir la norma de pequeños satélites junto al subwoofer. Pero no siempre. Estamos aquí frente a un 2.1 EDIFIER de la línea S. Si vemos a S350DB instalado en el living, dormitorio o sala de juegos, una rápida inspección visual al cono de aluminio y tweeter de titanio nos hará creer que esos bafles cerca de la pantalla son unos pequeños exquisitos bookshelfs.",
+        "category": "Audio",
+        "price": "64.990",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_733848-MLA31063688644_062019-O.webp"
+    },
+    {
+        "id": 14,
+        "name": "Moto G30 128 GB gris tornasol 4 GB RAM",
+        "description": "Fotografía profesional en tu bolsillo. Descubrí infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados.",
+        "category": "Celular",
+        "price": "34.199",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_990120-MLA45683745318_042021-O.webp"
+    },
+    {
+        "id": 15,
+        "name": "Pc Completa Intel I5 9na 16gb",
+        "description": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus. Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.",
+        "category": "Computación",
+        "price": "149.999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_795546-MLA31112817848_062019-O.webp"
+    },
+    {
+        "id": 16,
+        "name": "Tv Led Hisense 43 Fhd Smart",
+        "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec rutrum congue leo eget malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla quis lorem ut libero malesuada feugiat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+        "category": "Tv",
+        "price": "42.999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_814889-MLA45743886135_042021-O.webp"
+    },
+    {
+        "id": 17,
+        "name": "Motorola G100 Azul Nimbus",
+        "description": "El moto g100 incluye: Manual de Usuario, Cable de Sincronización (USB C a HDMI), Cargador para viaje, Herramienta de Remoción de Tarjeta SIM, Teléfono, Funda Protectora de Silicón. El celular es color azul nimbus (lo que seria un azul cielo, más clarito)",
+        "category": "Celular",
+        "price": "89.999",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_817722-MLA45525240803_042021-O.webp"
+    },
+    {
+        "id": 18,
+        "name": "Smart TV Hitachi 40''",
+        "description": "Con el Smart TV CDH-LE40SMART17 vas a acceder a las aplicaciones en las que se encuentran tus contenidos favoritos. Además, podés navegar por Internet, interactuar en redes sociales y divertirte con videojuegos.",
+        "category": "Tv",
+        "price": "37.599",
+        "available": true,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_633442-MLA40745461953_022020-O.webp"
+    },
+    {
+        "id": 19,
+        "name": "Computadora Escritorio Completa",
+        "description": "Es lo mejor del mercado en relación calidad/ precio ya que con 4 gb de memoria RAM y disco de estado sólido proporciona navegación más eficiente por la web, alta velocidad en lectura, escritura y manejo de programas múltiples, mayor velocidad de encendido/apadado y optimización de tareas.",
+        "category": "Computación",
+        "price": "60.409",
+        "available": false,
+        "img_url": "https://http2.mlstatic.com/D_NQ_NP_683689-MLA45464572871_042021-O.webp"
+    }
+]

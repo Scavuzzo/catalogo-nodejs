@@ -1,0 +1,12 @@
+{% macro buscar(name, id) %}
+<div class="hero-home">
+    <div class="container">
+        <h3>Productos</h3>
+        <form class="buscador" method="GET" action="/">
+            <input type="search" name="{{ name }}" id="{{ id }}">
+            <input type="submit" value="Buscar">
+        </form>
+        
+    </div>
+</div>
+{% endmacro %}
